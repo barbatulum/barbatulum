@@ -1,6 +1,7 @@
 |Developed|Notes|Career|
 | - | - | - |
-| [display_set_manager](https://github.com/barbatulum/display_set_manager)  | [dd_1](https://github.com/barbatulum/notes_dd_200907)   | [chungyo](https://github.com/barbatulum/chungyo) |
+| [display_set_manager](https://github.com/barbatulum/display_set_manager)  | [notes_dd_200907
+](https://github.com/barbatulum/notes_dd_200907)   | [chungyo](https://github.com/barbatulum/chungyo) |
 | [knob_imputer](https://github.com/barbatulum/knob_imputer) | [dd_scratches_1](https://github.com/barbatulum/dd_scratches_1)  | [ansarpi](https://github.com/barbatulum/ansarpi) |
 |[cam_tools](https://github.com/barbatulum/cam_tools) |   |
 
