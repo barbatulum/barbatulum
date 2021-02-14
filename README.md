@@ -1,10 +1,5 @@
 [**pipeline_concept**](https://github.com/barbatulum/pipeline_concept/wiki)
 
-----
-
-### Transferring
-|  | |
-|-|-|
 
 ----
 
