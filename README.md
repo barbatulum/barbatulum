@@ -1,5 +1,5 @@
 ### Career
-| [chungyo](https://github.com/barbatulum/chungyo) | [ansarpi](https://github.com/barbatulum/ansarpi) | [career_code_examples](https://github.com/barbatulum/career_code_examples)
+| [career_code_examples](https://github.com/barbatulum/career_code_examples) | [chungyo](https://github.com/barbatulum/chungyo) | [ansarpi](https://github.com/barbatulum/ansarpi) |
 |-|-|-|
 
 ### Notes
