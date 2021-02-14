@@ -15,5 +15,5 @@
 
 ### Depricated
 
-| [trello_colorizer](https://github.com/barbatulum/trello_colorizer) | [dpct_pipeline_core](https://github.com/barbatulum/dpct_pipeline_core) | [dpct_maya_api](https://github.com/barbatulum/dpct_maya_api) | [pgui](https://github.com/barbatulum/pgui) | [dpct_pctools](https://github.com/barbatulum/dpct_pctools) | [pcrig](https://github.com/barbatulum/pcrig) | [mayamod](https://github.com/barbatulum/mayamod) | [pc_tools](https://github.com/barbatulum/pc_tools)
+| [dpct_pipeline_core](https://github.com/barbatulum/dpct_pipeline_core) | [dpct_maya_api](https://github.com/barbatulum/dpct_maya_api) | [trello_colorizer](https://github.com/barbatulum/trello_colorizer) | [pgui](https://github.com/barbatulum/pgui) | [dpct_pctools](https://github.com/barbatulum/dpct_pctools) | [pcrig](https://github.com/barbatulum/pcrig) | [mayamod](https://github.com/barbatulum/mayamod) | [pc_tools](https://github.com/barbatulum/pc_tools)
 |-|-|-|-|-|-|-|-|
