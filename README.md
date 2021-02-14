@@ -8,5 +8,5 @@
 
 # Depricated
 
-| [trello_colorizer](https://github.com/barbatulum/trello_colorizer) | [dpcd_pipeline_core](https://github.com/barbatulum/dpcd_pipeline_core) | [dpcd_maya_api](https://github.com/barbatulum/dpcd_maya_api) | [pgui](https://github.com/barbatulum/pgui) | [dpcd_pctools](https://github.com/barbatulum/dpcd_pctools) | [pcrig](https://github.com/barbatulum/pcrig) | [mayamod](https://github.com/barbatulum/mayamod) |
+| [trello_colorizer](https://github.com/barbatulum/trello_colorizer) | [dpct_pipeline_core](https://github.com/barbatulum/dpct_pipeline_core) | [dpct_maya_api](https://github.com/barbatulum/dpct_maya_api) | [pgui](https://github.com/barbatulum/pgui) | [dpct_pctools](https://github.com/barbatulum/dpct_pctools) | [pcrig](https://github.com/barbatulum/pcrig) | [mayamod](https://github.com/barbatulum/mayamod) |
 |-|-|-|-|-|-|-|
