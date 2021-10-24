@@ -9,10 +9,6 @@
 
 ----
 
-### [woei](https://github.com/barbatulum/woei)
-
-----
-
 ### Career
 | [career_code_examples](https://github.com/barbatulum/career_code_examples) | [mtl_af](https://github.com/barbatulum/mtl_af) | [chungyo](https://github.com/barbatulum/chungyo) | [ansarpi](https://github.com/barbatulum/ansarpi) |
 |-|-|-|-|
